@@ -1,0 +1,88 @@
+
+body {
+  background-color: white;
+}
+
+.title-container{
+    height: 44vh;
+
+    background-color: white;
+}
+
+.title-hello {
+  font-size: 8rem;
+  font-weight: 700;
+  font-family: 'Corinthia', cursive;
+}
+
+.title-name {
+    font-size: 4rem;
+    font-weight: 500;
+    font-family: 'Corinthia', cursive;
+
+    position: relative;
+    top: -2,5rem;
+
+    color: black;
+    background-color: white;
+}
+
+.title-tag {
+  font-size: 4rem;
+  font-weight: 500;
+  font-family: 'Corinthia', cursive;
+
+  position: relative;
+  top: -2rem;
+}
+
+.about-me-container {
+    width: 80vw;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    margin-left: 10vw;
+
+    background-color: rgb(255, 95, 31);
+}
+
+.about-me-image {
+  height: 20vw;
+  width: 20vw;
+
+  border-radius: 100%;
+  box-shadow: 10px 5px 10px white;
+}
+
+.about-me-text {
+    font-size: 2rem;
+
+    padding-left: 5% !important;
+    padding-right: 5% !important;
+
+    color: white
+}
+
+.image-container {
+  width: 80vw;
+
+  margin-top: 2vw;
+  margin-left: 10vw;
+
+  background-color: white;
+}
+
+.image {
+  height: 15vw;
+  width: 15vw;
+}
+
+.contact-me-container {
+  margin-top: 10vh;
+  margin-bottom: 10vh;
+
+  font-size: 4rem;
+  font-weight: 500;
+  font-family: 'Corinthia', cursive;
+}
